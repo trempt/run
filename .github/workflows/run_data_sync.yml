@@ -25,7 +25,7 @@ env:
   ATHLETE: Star sam
   TITLE: S&S Running
   MIN_GRID_DISTANCE: 10 # change min distance here
-  TITLE_GRID: Over 10km Runs(2010-2022) # also here
+  TITLE_GRID: Over 10km Runs # also here
   GITHUB_NAME: ted
   GITHUB_EMAIL: f6iend@gmail.com
 
